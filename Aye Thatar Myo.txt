@@ -1,0 +1,6 @@
+Task2
+------------------
+(1)https://www.geeksforgeeks.org/find-the-position-of-the-given-row-in-a-2-d-array/
+
+
+(2)https://www.scaler.com/topics/matrix-multiplication-in-java/
